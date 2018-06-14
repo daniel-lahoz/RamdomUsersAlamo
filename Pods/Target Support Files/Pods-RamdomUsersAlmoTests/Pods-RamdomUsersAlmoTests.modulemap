@@ -1,0 +1,6 @@
+framework module Pods_RamdomUsersAlmoTests {
+  umbrella header "Pods-RamdomUsersAlmoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
