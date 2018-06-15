@@ -18,6 +18,17 @@ default_platform(:ios)
 platform :ios do
   desc "Generate new localized screenshots"
   lane :screenshots do
-    capture_screenshots(workspace: "RamdomUsersAlmo.xcworkspace", scheme: "RamdomUsersAlmo")
+    capture_screenshots(workspace: "RamdomUsersAlamo.xcworkspace", scheme: "RamdomUsersAlamo")
   end
 end
+
+swiftlint(
+  mode: :lint,      # SwiftLint mode: :lint (default) or :autocorrect
+  #path: "/path/to/lint",       # Specify path to lint (optional)
+  output_file: "swiftlint.result.json", # The path of the output file (optional)
+  reporter: "json",                       # The custom reporter to use (optional)
+  #config_file: ".swiftlint-ci.yml",       # The path of the configuration file (optional)
+  ignore_exit_status: true,               # Allow fastlane to continue even if SwiftLint returns a non-zero exit status (Default: false)
+  quiet: false,                            # Don't print status logs like 'Linting ' & 'Done linting' (Default: false)
+  strict: false                            # Fail on warnings? (Default: false)
+)

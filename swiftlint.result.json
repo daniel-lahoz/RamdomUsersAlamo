@@ -1,0 +1,4655 @@
+[
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/AFError.swift",
+    "line" : 31,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/AFError.swift",
+    "line" : 161,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/AFError.swift",
+    "line" : 460,
+    "reason" : "File should contain 400 lines or less: currently contains 460",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : 13,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/NetworkReachabilityManager.swift",
+    "line" : 150,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 1,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/NetworkReachabilityManager.swift",
+    "line" : 220,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 8,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/NetworkReachabilityManager.swift",
+    "line" : 216,
+    "reason" : "Operators should be surrounded by a single whitespace when defining them.",
+    "rule_id" : "operator_whitespace",
+    "severity" : "Warning",
+    "type" : "Operator Function Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/NetworkReachabilityManager.swift",
+    "line" : 145,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 1,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Alamofire.swift",
+    "line" : 139,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 1,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Alamofire.swift",
+    "line" : 187,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 1,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Alamofire.swift",
+    "line" : 213,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 1,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Alamofire.swift",
+    "line" : 243,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 1,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Alamofire.swift",
+    "line" : 267,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 1,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Alamofire.swift",
+    "line" : 301,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 1,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Alamofire.swift",
+    "line" : 335,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 1,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Alamofire.swift",
+    "line" : 383,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 1,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Alamofire.swift",
+    "line" : 420,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Alamofire.swift",
+    "line" : 465,
+    "reason" : "File should contain 400 lines or less: currently contains 465",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Notifications.swift",
+    "line" : 33,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Notifications.swift",
+    "line" : 36,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Notifications.swift",
+    "line" : 39,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 73,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 92,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 109,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 129,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 158,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 163,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 36,
+    "reason" : "Line should be 120 characters or less: currently 126 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 57,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 136,
+    "reason" : "Line should be 120 characters or less: currently 133 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 151,
+    "reason" : "Line should be 120 characters or less: currently 139 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 170,
+    "reason" : "Line should be 120 characters or less: currently 143 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 187,
+    "reason" : "Line should be 120 characters or less: currently 158 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/fastlane\/SnapshotHelper.swift",
+    "line" : 227,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/MultipartFormData.swift",
+    "line" : 278,
+    "reason" : "Else and catch should be on the same line, one space after the previous declaration.",
+    "rule_id" : "statement_position",
+    "severity" : "Warning",
+    "type" : "Statement Position"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/MultipartFormData.swift",
+    "line" : 54,
+    "reason" : "Types should be nested at most 1 level deep",
+    "rule_id" : "nesting",
+    "severity" : "Warning",
+    "type" : "Nesting"
+  },
+  {
+    "character" : 17,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/MultipartFormData.swift",
+    "line" : 539,
+    "reason" : "Variable name should be between 3 and 40 characters long: 'id'",
+    "rule_id" : "identifier_name",
+    "severity" : "Warning",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/MultipartFormData.swift",
+    "line" : 316,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 6,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/MultipartFormData.swift",
+    "line" : 45,
+    "reason" : "Type body should span 200 lines or less excluding comments and whitespace: currently spans 222 lines",
+    "rule_id" : "type_body_length",
+    "severity" : "Warning",
+    "type" : "Type Body Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/MultipartFormData.swift",
+    "line" : 119,
+    "reason" : "Line should be 120 characters or less: currently 128 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/MultipartFormData.swift",
+    "line" : 308,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/MultipartFormData.swift",
+    "line" : 539,
+    "reason" : "Line should be 120 characters or less: currently 142 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/MultipartFormData.swift",
+    "line" : 550,
+    "reason" : "Line should be 120 characters or less: currently 126 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/MultipartFormData.swift",
+    "line" : 580,
+    "reason" : "File should contain 400 lines or less: currently contains 580",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ParameterEncoding.swift",
+    "line" : 439,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ParameterEncoding.swift",
+    "line" : 158,
+    "reason" : "Line should be 120 characters or less: currently 143 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ParameterEncoding.swift",
+    "line" : 191,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ParameterEncoding.swift",
+    "line" : 279,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ParameterEncoding.swift",
+    "line" : 383,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ParameterEncoding.swift",
+    "line" : 483,
+    "reason" : "File should contain 400 lines or less: currently contains 483",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Request.swift",
+    "line" : 271,
+    "reason" : "Function should have complexity 10 or less: currently complexity equals 15",
+    "rule_id" : "cyclomatic_complexity",
+    "severity" : "Warning",
+    "type" : "Cyclomatic Complexity"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Request.swift",
+    "line" : 165,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Request.swift",
+    "line" : 542,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 13,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Request.swift",
+    "line" : 123,
+    "reason" : "Delegates should be weak to avoid reference cycles.",
+    "rule_id" : "weak_delegate",
+    "severity" : "Warning",
+    "type" : "Weak Delegate"
+  },
+  {
+    "character" : 58,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Request.swift",
+    "line" : 386,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : 66,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Request.swift",
+    "line" : 500,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : 62,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Request.swift",
+    "line" : 607,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Request.swift",
+    "line" : 271,
+    "reason" : "Function body should span 40 lines or less excluding comments and whitespace: currently spans 48 lines",
+    "rule_id" : "function_body_length",
+    "severity" : "Warning",
+    "type" : "Function Body Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Request.swift",
+    "line" : 57,
+    "reason" : "Line should be 120 characters or less: currently 131 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Request.swift",
+    "line" : 300,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Request.swift",
+    "line" : 654,
+    "reason" : "File should contain 400 lines or less: currently contains 654",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ServerTrustPolicy.swift",
+    "line" : 174,
+    "reason" : "Function should have complexity 10 or less: currently complexity equals 15",
+    "rule_id" : "cyclomatic_complexity",
+    "severity" : "Warning",
+    "type" : "Cyclomatic Complexity"
+  },
+  {
+    "character" : 25,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ServerTrustPolicy.swift",
+    "line" : 204,
+    "reason" : "`where` clauses are preferred over a single `if` inside a `for`.",
+    "rule_id" : "for_where",
+    "severity" : "Warning",
+    "type" : "For Where"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ServerTrustPolicy.swift",
+    "line" : 174,
+    "reason" : "Function body should span 40 lines or less excluding comments and whitespace: currently spans 43 lines",
+    "rule_id" : "function_body_length",
+    "severity" : "Warning",
+    "type" : "Function Body Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ServerTrustPolicy.swift",
+    "line" : 252,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Timeline.swift",
+    "line" : 68,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 44,
+    "reason" : "Variable name should only contain alphanumeric characters: '_metrics'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 96,
+    "reason" : "Variable name should only contain alphanumeric characters: '_metrics'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 278,
+    "reason" : "Variable name should only contain alphanumeric characters: '_metrics'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 342,
+    "reason" : "Variable name should only contain alphanumeric characters: '_metrics'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 520,
+    "reason" : "Variable name should only contain alphanumeric characters: '_metrics'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 62,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 113,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 300,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 363,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 203,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 226,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 462,
+    "reason" : "Line should be 120 characters or less: currently 125 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 487,
+    "reason" : "Line should be 120 characters or less: currently 125 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Response.swift",
+    "line" : 567,
+    "reason" : "File should contain 400 lines or less: currently contains 567",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Validation.swift",
+    "line" : 98,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Validation.swift",
+    "line" : 115,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Validation.swift",
+    "line" : 208,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/Validation.swift",
+    "line" : 288,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageCache.swift",
+    "line" : 132,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 15,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageFilter.swift",
+    "line" : 365,
+    "reason" : "Type name should be between 3 and 40 characters long: 'AspectScaledToFillSizeWithRoundedCornersFilter'",
+    "rule_id" : "type_name",
+    "severity" : "Warning",
+    "type" : "Type Name"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageFilter.swift",
+    "line" : 423,
+    "reason" : "File should contain 400 lines or less: currently contains 423",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/Request+AlamofireImage.swift",
+    "line" : 83,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/Request+AlamofireImage.swift",
+    "line" : 130,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/Request+AlamofireImage.swift",
+    "line" : 165,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/Request+AlamofireImage.swift",
+    "line" : 186,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 98,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 114,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 154,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 241,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 257,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 291,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 347,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 383,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 409,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 452,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 52,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 191,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : 60,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 308,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : 56,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 425,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 87,
+    "reason" : "Line should be 120 characters or less: currently 149 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 138,
+    "reason" : "Line should be 120 characters or less: currently 141 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/TaskDelegate.swift",
+    "line" : 466,
+    "reason" : "File should contain 400 lines or less: currently contains 466",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 170,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 189,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 233,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 324,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 351,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 388,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 398,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 420,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 462,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 508,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 554,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 615,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 658,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 10,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 127,
+    "reason" : "Delegates should be weak to avoid reference cycles.",
+    "rule_id" : "weak_delegate",
+    "severity" : "Warning",
+    "type" : "Weak Delegate"
+  },
+  {
+    "character" : 10,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 653,
+    "reason" : "Function body should span 40 lines or less excluding comments and whitespace: currently spans 46 lines",
+    "rule_id" : "function_body_length",
+    "severity" : "Warning",
+    "type" : "Function Body Length"
+  },
+  {
+    "character" : 6,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 28,
+    "reason" : "Type body should span 200 lines or less excluding comments and whitespace: currently spans 384 lines",
+    "rule_id" : "type_body_length",
+    "severity" : "Error",
+    "type" : "Type Body Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 107,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 370,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 371,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 684,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 695,
+    "reason" : "Line should be 120 characters or less: currently 129 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionManager.swift",
+    "line" : 896,
+    "reason" : "File should contain 400 lines or less: currently contains 896",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 148,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 186,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 222,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 293,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 333,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 360,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 415,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 463,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 490,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 518,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 536,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 555,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 584,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 611,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 639,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 657,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 676,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 705,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 114,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 382,
+    "reason" : "Line should be 120 characters or less: currently 126 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 432,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 686,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/ResponseSerialization.swift",
+    "line" : 715,
+    "reason" : "File should contain 400 lines or less: currently contains 715",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImage+AlamofireImage.swift",
+    "line" : 82,
+    "reason" : "Variable name should only contain alphanumeric characters: 'af_inflated'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImage+AlamofireImage.swift",
+    "line" : 111,
+    "reason" : "Variable name should only contain alphanumeric characters: 'af_containsAlphaComponent'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImage+AlamofireImage.swift",
+    "line" : 123,
+    "reason" : "Variable name should only contain alphanumeric characters: 'af_isOpaque'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImage+AlamofireImage.swift",
+    "line" : 234,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 10,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 262,
+    "reason" : "Function should have complexity 10 or less: currently complexity equals 18",
+    "rule_id" : "cyclomatic_complexity",
+    "severity" : "Warning",
+    "type" : "Cyclomatic Complexity"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 88,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 177,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 200,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 220,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 270,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 438,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 10,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 262,
+    "reason" : "Function body should span 40 lines or less excluding comments and whitespace: currently spans 78 lines",
+    "rule_id" : "function_body_length",
+    "severity" : "Warning",
+    "type" : "Function Body Length"
+  },
+  {
+    "character" : 6,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 59,
+    "reason" : "Type body should span 200 lines or less excluding comments and whitespace: currently spans 236 lines",
+    "rule_id" : "type_body_length",
+    "severity" : "Warning",
+    "type" : "Type Body Length"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 80,
+    "reason" : "Tuples should have at most 2 members.",
+    "rule_id" : "large_tuple",
+    "severity" : "Warning",
+    "type" : "Large Tuple"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 118,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 407,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/ImageDownloader.swift",
+    "line" : 559,
+    "reason" : "File should contain 400 lines or less: currently contains 559",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIButton+AlamofireImage.swift",
+    "line" : 48,
+    "reason" : "Variable name should only contain alphanumeric characters: 'af_imageDownloader'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIButton+AlamofireImage.swift",
+    "line" : 61,
+    "reason" : "Variable name should only contain alphanumeric characters: 'af_sharedImageDownloader'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIButton+AlamofireImage.swift",
+    "line" : 135,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIButton+AlamofireImage.swift",
+    "line" : 174,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIButton+AlamofireImage.swift",
+    "line" : 282,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIButton+AlamofireImage.swift",
+    "line" : 321,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIButton+AlamofireImage.swift",
+    "line" : 434,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIButton+AlamofireImage.swift",
+    "line" : 450,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIButton+AlamofireImage.swift",
+    "line" : 72,
+    "reason" : "Line should be 120 characters or less: currently 126 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIButton+AlamofireImage.swift",
+    "line" : 94,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIButton+AlamofireImage.swift",
+    "line" : 102,
+    "reason" : "Line should be 120 characters or less: currently 128 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIButton+AlamofireImage.swift",
+    "line" : 473,
+    "reason" : "File should contain 400 lines or less: currently contains 473",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/AppDelegate.swift",
+    "line" : 16,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/AppDelegate.swift",
+    "line" : 44,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/AppDelegate.swift",
+    "line" : 46,
+    "reason" : "Files should have a single trailing newline.",
+    "rule_id" : "trailing_newline",
+    "severity" : "Warning",
+    "type" : "Trailing Newline"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/AppDelegate.swift",
+    "line" : 17,
+    "reason" : "Line should be 120 characters or less: currently 144 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/AppDelegate.swift",
+    "line" : 23,
+    "reason" : "Line should be 120 characters or less: currently 285 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/AppDelegate.swift",
+    "line" : 24,
+    "reason" : "Line should be 120 characters or less: currently 159 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/AppDelegate.swift",
+    "line" : 28,
+    "reason" : "Line should be 120 characters or less: currently 218 characters",
+    "rule_id" : "line_length",
+    "severity" : "Error",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/AppDelegate.swift",
+    "line" : 29,
+    "reason" : "Line should be 120 characters or less: currently 141 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/AppDelegate.swift",
+    "line" : 33,
+    "reason" : "Line should be 120 characters or less: currently 155 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/AppDelegate.swift",
+    "line" : 37,
+    "reason" : "Line should be 120 characters or less: currently 194 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/AppDelegate.swift",
+    "line" : 41,
+    "reason" : "Line should be 120 characters or less: currently 128 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImageView+AlamofireImage.swift",
+    "line" : 135,
+    "reason" : "Variable name should only contain alphanumeric characters: 'af_imageDownloader'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImageView+AlamofireImage.swift",
+    "line" : 148,
+    "reason" : "Variable name should only contain alphanumeric characters: 'af_sharedImageDownloader'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImageView+AlamofireImage.swift",
+    "line" : 161,
+    "reason" : "Variable name should only contain alphanumeric characters: 'af_activeRequestReceipt'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImageView+AlamofireImage.swift",
+    "line" : 212,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImageView+AlamofireImage.swift",
+    "line" : 265,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImageView+AlamofireImage.swift",
+    "line" : 256,
+    "reason" : "Function body should span 40 lines or less excluding comments and whitespace: currently spans 41 lines",
+    "rule_id" : "function_body_length",
+    "severity" : "Warning",
+    "type" : "Function Body Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImageView+AlamofireImage.swift",
+    "line" : 140,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImageView+AlamofireImage.swift",
+    "line" : 150,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImageView+AlamofireImage.swift",
+    "line" : 157,
+    "reason" : "Line should be 120 characters or less: currently 126 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImageView+AlamofireImage.swift",
+    "line" : 166,
+    "reason" : "Line should be 120 characters or less: currently 125 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/AlamofireImage\/Source\/UIImageView+AlamofireImage.swift",
+    "line" : 225,
+    "reason" : "Line should be 120 characters or less: currently 126 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoTests\/RamdomUsersAlamoTests.swift",
+    "line" : 13,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoTests\/RamdomUsersAlamoTests.swift",
+    "line" : 18,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoTests\/RamdomUsersAlamoTests.swift",
+    "line" : 23,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoTests\/RamdomUsersAlamoTests.swift",
+    "line" : 28,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoTests\/RamdomUsersAlamoTests.swift",
+    "line" : 35,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 30,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 36,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 42,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 46,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 50,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 56,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 61,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 63,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 65,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 67,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 74,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 81,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 88,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 91,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 93,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 95,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 98,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 31,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 22,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 31,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 43,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 33,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 47,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 38,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 51,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 31,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 52,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 57,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 57,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 31,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 58,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 54,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 64,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 54,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 69,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 53,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 76,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 56,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 83,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ArrayExtensions.swift",
+    "line" : 12,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 21,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UsersDownloader.swift",
+    "line" : 34,
+    "reason" : "Else and catch should be on the same line, one space after the previous declaration.",
+    "rule_id" : "statement_position",
+    "severity" : "Warning",
+    "type" : "Statement Position"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UsersDownloader.swift",
+    "line" : 20,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UsersDownloader.swift",
+    "line" : 39,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UsersDownloader.swift",
+    "line" : 49,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UsersDownloader.swift",
+    "line" : 50,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 51,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UsersDownloader.swift",
+    "line" : 26,
+    "reason" : "Colons should be next to the identifier when specifying a type and next to the key in dictionary literals.",
+    "rule_id" : "colon",
+    "severity" : "Warning",
+    "type" : "Colon"
+  },
+  {
+    "character" : 10,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UsersDownloader.swift",
+    "line" : 12,
+    "reason" : "Enum element name should start with a lowercase character: 'NotImplemented'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 26,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UsersDownloader.swift",
+    "line" : 34,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UsersDownloader.swift",
+    "line" : 50,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 59,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 73,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 75,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 96,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 101,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 108,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 115,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 120,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 125,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 134,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 140,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 145,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 150,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 156,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 158,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 160,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 161,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 191,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 192,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 7,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 56,
+    "reason" : "Colons should be next to the identifier when specifying a type and next to the key in dictionary literals.",
+    "rule_id" : "colon",
+    "severity" : "Warning",
+    "type" : "Colon"
+  },
+  {
+    "character" : 14,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 58,
+    "reason" : "Colons should be next to the identifier when specifying a type and next to the key in dictionary literals.",
+    "rule_id" : "colon",
+    "severity" : "Warning",
+    "type" : "Colon"
+  },
+  {
+    "character" : 18,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 193,
+    "reason" : "Colons should be next to the identifier when specifying a type and next to the key in dictionary literals.",
+    "rule_id" : "colon",
+    "severity" : "Warning",
+    "type" : "Colon"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 77,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 65,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 80,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 23,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 87,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 81,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 90,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 51,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 108,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 156,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 161,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 192,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 199,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 3.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 205,
+    "reason" : "Files should have a single trailing newline.",
+    "rule_id" : "trailing_newline",
+    "severity" : "Warning",
+    "type" : "Trailing Newline"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/User.swift",
+    "line" : 194,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 19,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 198,
+    "reason" : "Function should have complexity 10 or less: currently complexity equals 12",
+    "rule_id" : "cyclomatic_complexity",
+    "severity" : "Warning",
+    "type" : "Cyclomatic Complexity"
+  },
+  {
+    "character" : 10,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 42,
+    "reason" : "Variable name should be between 3 and 40 characters long: 'sessionDidFinishEventsForBackgroundURLSession'",
+    "rule_id" : "identifier_name",
+    "severity" : "Warning",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 10,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 51,
+    "reason" : "Variable name should be between 3 and 40 characters long: 'taskWillPerformHTTPRedirectionWithCompletion'",
+    "rule_id" : "identifier_name",
+    "severity" : "Warning",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 154,
+    "reason" : "Variable name should only contain alphanumeric characters: '_streamTaskReadClosed'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 155,
+    "reason" : "Variable name should only contain alphanumeric characters: '_streamTaskWriteClosed'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 156,
+    "reason" : "Variable name should only contain alphanumeric characters: '_streamTaskBetterRouteDiscovered'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 157,
+    "reason" : "Variable name should only contain alphanumeric characters: '_streamTaskDidBecomeInputStream'",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 259,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 319,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 346,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 376,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 402,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 516,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 540,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 577,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 612,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 636,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 665,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 720,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 36,
+    "reason" : "Line should be 120 characters or less: currently 141 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 38,
+    "reason" : "Line should be 120 characters or less: currently 163 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 39,
+    "reason" : "Line should be 120 characters or less: currently 179 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 46,
+    "reason" : "Line should be 120 characters or less: currently 147 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 49,
+    "reason" : "Line should be 120 characters or less: currently 146 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 51,
+    "reason" : "Line should be 120 characters or less: currently 160 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 54,
+    "reason" : "Line should be 120 characters or less: currently 154 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 58,
+    "reason" : "Line should be 120 characters or less: currently 192 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 65,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 67,
+    "reason" : "Line should be 120 characters or less: currently 147 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 75,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 76,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 78,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 80,
+    "reason" : "Line should be 120 characters or less: currently 163 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 88,
+    "reason" : "Line should be 120 characters or less: currently 131 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 91,
+    "reason" : "Line should be 120 characters or less: currently 130 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 93,
+    "reason" : "Line should be 120 characters or less: currently 156 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 97,
+    "reason" : "Line should be 120 characters or less: currently 126 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 100,
+    "reason" : "Line should be 120 characters or less: currently 160 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 103,
+    "reason" : "Line should be 120 characters or less: currently 140 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 143,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 145,
+    "reason" : "Line should be 120 characters or less: currently 129 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 147,
+    "reason" : "Line should be 120 characters or less: currently 124 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 197,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 227,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 371,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 393,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 425,
+    "reason" : "Line should be 120 characters or less: currently 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/Pods\/Alamofire\/Source\/SessionDelegate.swift",
+    "line" : 725,
+    "reason" : "File should contain 400 lines or less: currently contains 725",
+    "rule_id" : "file_length",
+    "severity" : "Warning",
+    "type" : "File Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoUITests\/RamdomUsersAlamoUITests.swift",
+    "line" : 12,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoUITests\/RamdomUsersAlamoUITests.swift",
+    "line" : 15,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoUITests\/RamdomUsersAlamoUITests.swift",
+    "line" : 17,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoUITests\/RamdomUsersAlamoUITests.swift",
+    "line" : 25,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoUITests\/RamdomUsersAlamoUITests.swift",
+    "line" : 30,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoUITests\/RamdomUsersAlamoUITests.swift",
+    "line" : 35,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoUITests\/RamdomUsersAlamoUITests.swift",
+    "line" : 20,
+    "reason" : "Line should be 120 characters or less: currently 131 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamoUITests\/RamdomUsersAlamoUITests.swift",
+    "line" : 23,
+    "reason" : "Line should be 120 characters or less: currently 182 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 13,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 55,
+    "reason" : "Else and catch should be on the same line, one space after the previous declaration.",
+    "rule_id" : "statement_position",
+    "severity" : "Warning",
+    "type" : "Statement Position"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 132,
+    "reason" : "Else and catch should be on the same line, one space after the previous declaration.",
+    "rule_id" : "statement_position",
+    "severity" : "Warning",
+    "type" : "Statement Position"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 21,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 23,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 28,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 32,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 34,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 35,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 38,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 42,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 45,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 52,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 58,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 63,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 68,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 95,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 98,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 104,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 108,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 112,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 116,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 120,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 121,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 125,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 127,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 135,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 137,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 138,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 14,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 22,
+    "reason" : "Colons should be next to the identifier when specifying a type and next to the key in dictionary literals.",
+    "rule_id" : "colon",
+    "severity" : "Warning",
+    "type" : "Colon"
+  },
+  {
+    "character" : 11,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 124,
+    "reason" : "Colons should be next to the identifier when specifying a type and next to the key in dictionary literals.",
+    "rule_id" : "colon",
+    "severity" : "Warning",
+    "type" : "Colon"
+  },
+  {
+    "character" : 122,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 47,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 39,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 53,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 18,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 55,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 46,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 59,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 34,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 124,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 57,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 126,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 14,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 132,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 19,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 35,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 121,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 138,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 141,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 141,
+    "reason" : "Files should have a single trailing newline.",
+    "rule_id" : "trailing_newline",
+    "severity" : "Warning",
+    "type" : "Trailing Newline"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/UserCell.swift",
+    "line" : 47,
+    "reason" : "Line should be 120 characters or less: currently 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : 13,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 98,
+    "reason" : "Else and catch should be on the same line, one space after the previous declaration.",
+    "rule_id" : "statement_position",
+    "severity" : "Warning",
+    "type" : "Statement Position"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 112,
+    "reason" : "Else and catch should be on the same line, one space after the previous declaration.",
+    "rule_id" : "statement_position",
+    "severity" : "Warning",
+    "type" : "Statement Position"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 203,
+    "reason" : "Else and catch should be on the same line, one space after the previous declaration.",
+    "rule_id" : "statement_position",
+    "severity" : "Warning",
+    "type" : "Statement Position"
+  },
+  {
+    "character" : 13,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 222,
+    "reason" : "Else and catch should be on the same line, one space after the previous declaration.",
+    "rule_id" : "statement_position",
+    "severity" : "Warning",
+    "type" : "Statement Position"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 81,
+    "reason" : "Trailing closure syntax should not be used when passing more than one closure argument.",
+    "rule_id" : "multiple_closures_with_trailing_closure",
+    "severity" : "Warning",
+    "type" : "Multiple Closures with Trailing Closure"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 146,
+    "reason" : "Trailing closure syntax should not be used when passing more than one closure argument.",
+    "rule_id" : "multiple_closures_with_trailing_closure",
+    "severity" : "Warning",
+    "type" : "Multiple Closures with Trailing Closure"
+  },
+  {
+    "character" : 12,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 287,
+    "reason" : "Trailing closure syntax should not be used when passing more than one closure argument.",
+    "rule_id" : "multiple_closures_with_trailing_closure",
+    "severity" : "Warning",
+    "type" : "Multiple Closures with Trailing Closure"
+  },
+  {
+    "character" : 105,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 186,
+    "reason" : "There should be no space before and one after any comma.",
+    "rule_id" : "comma",
+    "severity" : "Warning",
+    "type" : "Comma Spacing"
+  },
+  {
+    "character" : 98,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 206,
+    "reason" : "There should be no space before and one after any comma.",
+    "rule_id" : "comma",
+    "severity" : "Warning",
+    "type" : "Comma Spacing"
+  },
+  {
+    "character" : 79,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 223,
+    "reason" : "There should be no space before and one after any comma.",
+    "rule_id" : "comma",
+    "severity" : "Warning",
+    "type" : "Comma Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 14,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 19,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 21,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 23,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 29,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 32,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 35,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 43,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 45,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 46,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 50,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 51,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 52,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 53,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 83,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 84,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 86,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 91,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 95,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 101,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 103,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 106,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 108,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 115,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 117,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 119,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 120,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 125,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 130,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 135,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 137,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 138,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 140,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 143,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 145,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 151,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 152,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 153,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 155,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 162,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 165,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 169,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 176,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 179,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 181,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 184,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 187,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 189,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 193,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 196,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 200,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 202,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 204,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 207,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 209,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 213,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 216,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 220,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 224,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 230,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 234,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 237,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 241,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 244,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 246,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 248,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 250,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 254,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 260,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 262,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 264,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 266,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 273,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 276,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 278,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 280,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 284,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 286,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 288,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 290,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 292,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 294,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 296,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 299,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 301,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 303,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 305,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 307,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 309,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 310,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 317,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 323,
+    "reason" : "Lines should not have trailing whitespace.",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 9,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 22,
+    "reason" : "Colons should be next to the identifier when specifying a type and next to the key in dictionary literals.",
+    "rule_id" : "colon",
+    "severity" : "Warning",
+    "type" : "Colon"
+  },
+  {
+    "character" : 18,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 98,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 14,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 112,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 14,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 203,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 18,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 222,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration.",
+    "rule_id" : "opening_brace",
+    "severity" : "Warning",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 35,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 22,
+    "reason" : "Initializing an optional variable with nil is redundant.",
+    "rule_id" : "redundant_optional_initialization",
+    "severity" : "Warning",
+    "type" : "Redundant Optional Initialization"
+  },
+  {
+    "character" : 30,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 31,
+    "reason" : "Initializing an optional variable with nil is redundant.",
+    "rule_id" : "redundant_optional_initialization",
+    "severity" : "Warning",
+    "type" : "Redundant Optional Initialization"
+  },
+  {
+    "character" : 120,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 188,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : 130,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 195,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : 124,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 208,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : 134,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 215,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : 124,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 225,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : 134,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 236,
+    "reason" : "Force casts should be avoided.",
+    "rule_id" : "force_cast",
+    "severity" : "Error",
+    "type" : "Force Cast"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 46,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 53,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 4.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 84,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 120,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 138,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 153,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 3.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 158,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 257,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 310,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 2.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 314,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 3.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 327,
+    "reason" : "Limit vertical whitespace to a single empty line. Currently 3.",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Warning",
+    "type" : "Vertical Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 327,
+    "reason" : "Files should have a single trailing newline.",
+    "rule_id" : "trailing_newline",
+    "severity" : "Warning",
+    "type" : "Trailing Newline"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 180,
+    "reason" : "Line should be 120 characters or less: currently 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 186,
+    "reason" : "Line should be 120 characters or less: currently 195 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 188,
+    "reason" : "Line should be 120 characters or less: currently 131 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 195,
+    "reason" : "Line should be 120 characters or less: currently 144 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 206,
+    "reason" : "Line should be 120 characters or less: currently 177 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 208,
+    "reason" : "Line should be 120 characters or less: currently 135 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 215,
+    "reason" : "Line should be 120 characters or less: currently 148 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 223,
+    "reason" : "Line should be 120 characters or less: currently 139 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 225,
+    "reason" : "Line should be 120 characters or less: currently 135 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 229,
+    "reason" : "Line should be 120 characters or less: currently 156 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "\/Users\/daniel\/Simed\/RamdomUsersAlamo\/RamdomUsersAlamo\/ViewController.swift",
+    "line" : 236,
+    "reason" : "Line should be 120 characters or less: currently 148 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  }
+]

@@ -9,7 +9,7 @@
 import Alamofire
 
 enum UserServiceError: String, Error {
-    case NotImplemented = "This feature has not been implemented yet"
+    case notImplemented = "This feature has not been implemented yet"
     case URLParsing = "Sorry, there was an error getting the photos"
     case JSONStructure = "Sorry, the photo service returned something different than expected"
 }
