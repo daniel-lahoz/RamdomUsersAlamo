@@ -48,15 +48,14 @@ import UIKit
  "nat": "AU"
  **/
 
-
 protocol UserDelegate: class {
     func isDownloading(_ progress: Float, email: String)
 }
 
-class User : NSObject {
+class User: NSObject {
 
-    weak var delegate:UserDelegate?
-    
+    weak var delegate: UserDelegate?
+
     var photoUrl: URL
     var favorite = false
     var name: String
@@ -70,59 +69,58 @@ class User : NSObject {
     var registered: String
     var gender: String
     var fakelocation: CLLocation
-    
+
     var fileTask: URLSessionDownloadTask?
-    
+
     var image: UIImage? {
-        get{
+        get {
             let documentsURL = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first!
             let fileURL = documentsURL.appendingPathComponent("\(self.name)-\(self.surname)-\(self.registered).png")
-            guard let data = try? Data(contentsOf: fileURL) else{
+            guard let data = try? Data(contentsOf: fileURL) else {
                 return nil
             }
             let myImage =  UIImage(data: data)
             return myImage
 
         }
-        set (newValue){
+        set (newValue) {
             let documentsURL = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first!
                 let fileURL = documentsURL.appendingPathComponent("\(self.name)-\(self.surname)-\(self.registered).png")
-                if let jpegImageData = UIImageJPEGRepresentation(newValue!, 1.0){
+                if let jpegImageData = UIImageJPEGRepresentation(newValue!, 1.0) {
                     try? jpegImageData.write(to: fileURL, options: [])
                 }
         }
 
     }
-    
+
     //static let photoUrlKey = "photoUrl"
     //static let favoriteKey = "favorite"
 
     init(dictionary values: NSDictionary) {
-        
+
         guard let media = values["picture"] as? NSDictionary,
           let urlString = media["thumbnail"] as? String, let url = URL(string: urlString) else {
           fatalError("User item could not be created: " + values.description)
         }
         photoUrl = url
 
-        
         guard let namedicc = values["name"] as? NSDictionary,
             let first = namedicc["first"] as? String, let last = namedicc["last"] as? String else {
                 fatalError("User item could not be created: " + values.description)
         }
         name = first
         surname = last
-        
+
         guard let mail = values["email"] as? String else {
                 fatalError("User item could not be created: " + values.description)
         }
         email = mail
-        
+
         guard let aphone = values["phone"] as? String else {
             fatalError("User item could not be created: " + values.description)
         }
         phone = aphone
-        
+
         guard let locdicc = values["location"] as? NSDictionary,
             let astreet = locdicc["street"] as? String, let acity = locdicc["city"] as? String,
             let astate = locdicc["state"] as? String else {
@@ -131,34 +129,32 @@ class User : NSObject {
         street = astreet
         city = acity
         state = astate
-        
+
         guard let locdicc2 = values["location"] as? NSDictionary,
             let apostcode = locdicc2["postcode"]  else {
                 fatalError("User item could not be created: " + values.description)
         }
         postcode = String(describing: apostcode)
-        
+
         guard let aregistered = values["registered"] as? String else {
             fatalError("User item could not be created: " + values.description)
         }
         registered = aregistered
-        
+
         guard let agender = values["gender"] as? String else {
             fatalError("User item could not be created: " + values.description)
         }
         gender = agender
-        
+
         //Coordes similar to Madrid 40.4 , -3,7
         let ramdom = Double(arc4random_uniform(10000)) / 10000
         let latitud = (ramdom * 0.02) + 40.4
         let longitud = (ramdom * 0.02) - 3.7
 
-        
         fakelocation = CLLocation(latitude: latitud, longitude: longitud)
-        
+
     }
-    
-    
+
     func downloadFile() {
         /*
         fileTask?.cancel()
@@ -188,18 +184,14 @@ class User : NSObject {
         }
  */
     }
-    
-    
-    override var description : String {
+
+    override var description: String {
         return "User \(name) \(surname) \(phone) \(email) \(photoUrl.absoluteString) \(String(describing: image?.size)) \n"
     }
 }
-
-
 
 // MARK: Equatable
 
 func == (lhs: User, rhs: User) -> Bool {
     return lhs.email == rhs.email
 }
-

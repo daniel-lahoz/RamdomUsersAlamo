@@ -17,13 +17,13 @@ enum UserServiceError: String, Error {
 typealias UserResult = ([User]?, Error?) -> Void
 
 class UsersDownloader {
-    
+
     func getAllFeedPhotos(_ completion: @escaping UserResult) {
         Alamofire.request("https://api.randomuser.me/?results=300").responseJSON { response in
             switch response.result {
             case .success:
                 if let json = response.result.value {
-                    if let dictionary = json as? [String : Any], let items = dictionary["results"] as? [NSDictionary] {
+                    if let dictionary = json as? [String: Any], let items = dictionary["results"] as? [NSDictionary] {
                         var photos = [User]()
                         for item in items {
                             photos.append(User(dictionary: item))
@@ -31,12 +31,12 @@ class UsersDownloader {
                         DispatchQueue.main.async {
                             completion(photos, nil)
                         }
-                    }else{
+                    } else {
                         DispatchQueue.main.async {
                             completion(nil, UserServiceError.JSONStructure)
                         }
                     }
-                    
+
                 }
             case .failure(let error):
                 print(error)
@@ -46,6 +46,5 @@ class UsersDownloader {
             }
         }
     }
-    
-    
+
 }
